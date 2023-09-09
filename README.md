@@ -4,10 +4,8 @@
 
 Hi everyone! I created this project in order to really grasp all the functionalities of Git and GitHub.
 
-I'll use this repository to test:
+I used this repository to study:
 * commit-pull-push flow
 * github actions
 * collaborations
 * github wiki
-
-:)
